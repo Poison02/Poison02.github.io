@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[74791],{16986:e=>{e.exports=JSON.parse('{"label":"swagger","permalink":"/en/blog/tags/swagger","allTagsPath":"/en/blog/tags","count":1,"unlisted":false}')}}]);

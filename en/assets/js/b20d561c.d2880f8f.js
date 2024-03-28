@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[87166],{32811:e=>{e.exports=JSON.parse('{"label":"grpc","permalink":"/en/blog/tags/grpc","allTagsPath":"/en/blog/tags","count":1,"unlisted":false}')}}]);

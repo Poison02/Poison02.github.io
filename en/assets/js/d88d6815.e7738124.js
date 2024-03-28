@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[3043],{60019:a=>{a.exports=JSON.parse('{"label":"uniapp","permalink":"/en/blog/tags/uniapp","allTagsPath":"/en/blog/tags","count":1,"unlisted":false}')}}]);

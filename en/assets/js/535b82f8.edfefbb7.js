@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[18942],{27835:e=>{e.exports=JSON.parse('{"title":"Web","slug":"/category/web","permalink":"/en/docs/category/web","navigation":{"previous":{"title":"npmrc","permalink":"/en/docs/npmrc"},"next":{"title":"Vue","permalink":"/en/docs/category/vue"}}}')}}]);

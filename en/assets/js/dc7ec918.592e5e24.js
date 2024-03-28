@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[49187],{31240:e=>{e.exports=JSON.parse('{"label":"reverse","permalink":"/en/blog/tags/reverse","allTagsPath":"/en/blog/tags","count":2,"unlisted":false}')}}]);

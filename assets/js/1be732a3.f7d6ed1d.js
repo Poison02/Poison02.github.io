@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[86257],{26020:e=>{e.exports=JSON.parse('{"title":"Vue","slug":"/category/vue","permalink":"/docs/category/vue","navigation":{"previous":{"title":"Web","permalink":"/docs/category/web"},"next":{"title":"Vue\u54cd\u5e94\u5f0f\u6570\u636e\u4e4bObject","permalink":"/docs/vue-reactive-data-object"}}}')}}]);

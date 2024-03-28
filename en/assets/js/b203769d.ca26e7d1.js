@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[37128],{46302:e=>{e.exports=JSON.parse('{"label":"trpc","permalink":"/en/blog/tags/trpc","allTagsPath":"/en/blog/tags","count":1,"unlisted":false}')}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkblog=self.webpackChunkblog||[]).push([[17118],{23986:e=>{e.exports=JSON.parse('{"label":"cloud-service","permalink":"/blog/tags/cloud-service","allTagsPath":"/blog/tags","count":1,"unlisted":false}')}}]);
